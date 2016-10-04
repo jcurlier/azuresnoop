@@ -1,2 +1,3 @@
-# azuresnoop
-web application that displays information when running on Azure
+# Azure Snoop
+
+Web application that displays information when running on Azure
