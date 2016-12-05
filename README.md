@@ -1,3 +1,3 @@
 # Azure Snoop
 
-Web application that displays information when running on Azure
+This is the start of a Web application that displays information (network, status, etc.) when running on Azure
